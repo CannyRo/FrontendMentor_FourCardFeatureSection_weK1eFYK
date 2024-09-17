@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution Repository URL: [Add solution URL here](https://github.com/CannyRo/FrontendMentor_FourCardFeatureSection_weK1eFYK)
-- Live Site URL: [Add live site URL here](https://cannyro.github.io/FrontendMentor_FourCardFeatureSection_weK1eFYK/)
+- Solution Repository URL: [Click here](https://github.com/CannyRo/FrontendMentor_FourCardFeatureSection_weK1eFYK)
+- Live Site URL: [Click here](https://cannyro.github.io/FrontendMentor_FourCardFeatureSection_weK1eFYK/)
 
 ## My process
 
